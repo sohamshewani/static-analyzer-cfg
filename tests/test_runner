@@ -1,0 +1,6 @@
+```sh
+#!/bin/bash
+
+cmake . && make
+./static-analyzer-cfg
+```
